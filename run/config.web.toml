@@ -2,7 +2,7 @@
 
 [web]
 ip = ""
-port = 0
+port = 8003
 server_url = ""
 registry_url = ""
 stop_file = "/tmp/stopwebui"

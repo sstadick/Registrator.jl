@@ -1,6 +1,6 @@
 [commentbot]
 # Remove http_port to make the server use ENV["PORT"]. Heroku users must do this.
-http_port = 8001
+http_port = 8002
 http_ip = "0.0.0.0"
 log_level = "debug"
 backend_port = 5555             # Port of the backend regservice
